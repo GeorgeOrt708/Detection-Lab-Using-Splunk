@@ -1,4 +1,4 @@
-# 🖥️ Cybersecurity Home Lab: Detection attacks using Splunk 🌌
+# 🖥️❗ Cybersecurity Home Lab: Detection attacks using Splunk
 
 ## Introduction
 
@@ -115,9 +115,8 @@ Restart Splunk and test the event index.
 
 ## 🎉 Conclusion
 This project shows you how to:
-
-Build a home cybersecurity lab
-Launch and spot malware
-Use Splunk to watch for threats
+* Build a home cybersecurity lab
+* Launch and spot malware
+* Use Splunk to watch for threats
 
 > **Note:** These tools should only be used for educational purposes. Don’t misuse these skills!
