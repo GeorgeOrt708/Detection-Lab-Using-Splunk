@@ -9,9 +9,7 @@
 5. Step 5: Configuring a Metasploit Listener
 6. Step 6: Analyzing Logs in Splunk
 7. Fixing Issues
-8. Future Ideas
-Contributing
-Wrap-Up
+8. Conclusion
 
 ## 📝 Introduction
 This project guides you through building a home lab to practice cybersecurity skills. It includes an attacking system (Kali Linux), a victim system (Windows 10 virtual machine), and a log-monitoring tool (Splunk) to observe and analyze malicious actions. You’ll set up virtual environments, configure logging with Sysmon, create malware using msfvenom, and track the results in Splunk.
@@ -102,7 +100,7 @@ index=main sourcetype=WinEventLog:Security
 Look for signs of unauthorized access.
 Set up alerts for unusual events.
 
-## 🛡️ Fixing Issues
+## Step 7: 🛡️ Fixing Issues
 1. Metasploit Not Connecting
 Turn off Windows Defender to avoid payload blocking.
 Verify LHOST and LPORT match in msfvenom and Metasploit.
